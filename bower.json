@@ -1,0 +1,23 @@
+{
+  "name": "duang",
+  "version": "0.1.0",
+  "authors": [
+    "techird <techird@qq.com>"
+  ],
+  "description": "A duang duang tooltip",
+  "main": "duang.html",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
